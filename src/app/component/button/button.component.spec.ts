@@ -22,4 +22,8 @@ describe('ButtonComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  it('should create a password'), () => {
+    expect(password).toBeTruthy();
+  });
 });
