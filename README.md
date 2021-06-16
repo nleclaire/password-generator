@@ -1,18 +1,20 @@
-# PasswordGen
+# Password Generator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+Idea inspired by https://github.com/paytonharris/PasswordGenerator
+
+#TeamAngular
+
+## Generate passwords.
+
+Click the button.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+If you have @Angular/cli installed, once you clone down this repo run `ng serve` and navigate to `http://localhost:4200/`.
 
-## Code scaffolding
+If you don't, just run `npm install -g @angular/cli` - More info here: https://angular.io/cli
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+If you don't have `npm` installed, may God have mercy on your soul
 
 ## Running unit tests
 
