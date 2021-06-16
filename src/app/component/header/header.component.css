@@ -2,7 +2,9 @@ h1 {
   align-self: center;
   flex-grow: 1;
   justify-self: center;
-  padding-left: 200px;
+  /* padding-left: 200px; */
+  text-align: center;
+  padding-right: 300px;
 }
 
 .header {
@@ -10,8 +12,6 @@ h1 {
   min-height: 100px;
   color: white;
   display: flex;
-  flex-direction: row;
-  align-items: center;
 }
 
 .icon {

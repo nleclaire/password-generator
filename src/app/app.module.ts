@@ -5,6 +5,8 @@ import { AppComponent } from './app.component';
 import { ButtonComponent } from './component/button/button.component';
 import { HeaderComponent } from './component/header/header.component';
 
+import { PasswordService } from './service/password/password.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -14,7 +16,9 @@ import { HeaderComponent } from './component/header/header.component';
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [
+    PasswordService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
