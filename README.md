@@ -12,7 +12,7 @@ Click the button.
 
 If you have @Angular/cli installed, once you clone down this repo run `ng serve` and navigate to `http://localhost:4200/`.
 
-If you don't, just run `npm install -g @angular/cli` - More info here: https://angular.io/cli
+If you don't, just run `npm install -g @angular/cli` (might have to run w/ sudo) - More info here: https://angular.io/cli
 
 If you don't have `npm` installed, may God have mercy on your soul
 
