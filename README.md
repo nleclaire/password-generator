@@ -10,7 +10,7 @@ Click the button.
 
 ## Development server
 
-If you have @Angular/cli installed, once you clone down this repo run `ng serve` and navigate to `http://localhost:4200/`.
+If you have the Angular cli installed, clone down this repo and run `ng serve` then navigate to `http://localhost:4200/`.
 
 If you don't, just run `npm install -g @angular/cli` (might have to run w/ sudo) - More info here: https://angular.io/cli
 
